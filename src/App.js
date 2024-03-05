@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="ec2-3-37-107-212.ap-northeast-2.compute.amazonaws.com:8080/testCors"
+          href="http://ec2-3-37-107-212.ap-northeast-2.compute.amazonaws.com:8080/testCors"
           target="_blank"
           rel="noopener noreferrer"
         >
