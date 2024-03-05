@@ -8,7 +8,7 @@ on:
 
 env:
   PROJECT_NAME: heejun_front
-  BUCKET_NAME: anotherdine-front-bucket
+  BUCKET_NAME: yhj.anotherdine.shop
   CODE_DEPLOY_APP_NAME: anotherdine_cicd
   
 jobs:
